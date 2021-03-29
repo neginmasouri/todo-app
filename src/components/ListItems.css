@@ -1,0 +1,31 @@
+.todo-task {
+  color: rgb(255, 255, 255);
+  font-size: 2rem;
+  margin-left: 2rem;
+  width: 100%;
+  background-color: #502e80;
+}
+.text-todo {
+  color: #ccc;
+  margin-left: 1rem;
+}
+ul {
+  width: 100%;
+  list-style: none;
+}
+ul li {
+  padding: 10px;
+  background-color: #ccc;
+  margin: 0.5rem;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+ul li span {
+  color: rgb(41, 4, 36);
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+ul li span i {
+  margin: 0.5rem;
+}

@@ -1,0 +1,27 @@
+.main-form {
+  margin: 2rem auto;
+}
+.form input {
+  border: 1px solid #ccc;
+  outline: none;
+  width: 250px;
+  height: 30px;
+  margin: 20px 30px;
+  border-radius: 10px;
+  background-color: #502e80;
+  color: #ccc;
+}
+.form input::placeholder {
+  text-align: center;
+  color: #ccc;
+}
+.form button {
+  border: none;
+  background-color: #08690d;
+  color: #ccc;
+  outline: none;
+  border-radius: 5px;
+  border-radius: 1px solid #7f7094;
+  padding: 0.5rem;
+  cursor: pointer;
+}

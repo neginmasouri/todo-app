@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-todo{
+    background: linear-gradient(15deg,#284974,#a58cc0);
+    width:450px;
+    min-height: 500px;
+    border-radius: 3rem;
+}
